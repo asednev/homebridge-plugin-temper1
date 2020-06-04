@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "Temper1HomebridgePlugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
@@ -9,8 +9,8 @@
         "title": "Name",
         "type": "string",
         "required": true,
-        "default": "Example Dynamic Platform"
+        "default": "Temper1 Dynamic Platform"
       }
     }
   }
-}
+}n

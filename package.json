@@ -1,9 +1,8 @@
 {
-  "private": true,
   "displayName": "Temper1 Homebridge Plugin",
   "name": "homebridge-plugin-temper1",
-  "version": "2.0.0",
-  "description": "A short description about what your plugin does.",
+  "version": "1.0.0",
+  "description": "Homebridge plugin for Temper1 usb thermometers.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

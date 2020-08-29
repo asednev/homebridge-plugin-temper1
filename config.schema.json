@@ -9,7 +9,7 @@
         "title": "Name",
         "type": "string",
         "required": true,
-        "default": "Temper1 Dynamic Platform"
+        "default": "Temper1"
       }
     }
   }

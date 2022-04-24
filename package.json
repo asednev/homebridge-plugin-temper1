@@ -25,9 +25,7 @@
   "keywords": [
     "homebridge-plugin"
   ],
-  "dependencies": {
-    "temper1": "https://github.com/asmuelle/node-temper1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^17.0.25",
     "@typescript-eslint/eslint-plugin": "^3.0.1",

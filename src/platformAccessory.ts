@@ -2,7 +2,7 @@ import { Service, PlatformAccessory, CharacteristicGetCallback } from 'homebridg
 
 import { Temper1HomebridgePlatform } from './platform';
 
-import * as temper1 from 'temper1';
+import * as temper1 from './temper1';
 
 /**
  * Platform Accessory
